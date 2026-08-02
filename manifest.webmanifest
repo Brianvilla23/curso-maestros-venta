@@ -1,0 +1,33 @@
+{
+  "name": "Maestros de la Venta — Curso de campo",
+  "short_name": "Maestros",
+  "description": "24 maestros de venta y 16 libros de negocios: expedientes, quizzes, simulador y modo escucha. Funciona sin señal.",
+  "lang": "es-CL",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#14181A",
+  "theme_color": "#14181A",
+  "categories": ["education", "business"],
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    {
+      "name": "Ruta de estudio",
+      "short_name": "Ruta",
+      "url": "./index.html#ruta",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Construir el negocio",
+      "short_name": "Construir",
+      "url": "./index.html#construir",
+      "icons": [{ "src": "./icon-192.png", "sizes": "192x192" }]
+    }
+  ]
+}
