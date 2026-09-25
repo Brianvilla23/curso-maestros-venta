@@ -1,5 +1,5 @@
 /* Generado por build_curso.js — no editar a mano. */
-const CACHE = 'curso-65718e5f0156';
+const CACHE = 'curso-33486e3a590d';
 const PRECACHE = ["./","./index.html","./manifest.webmanifest","./icon-192.png","./icon-512.png","./icon-maskable-512.png","./apple-touch-icon.png","./favicon-32.png"];
 
 self.addEventListener('install', e => {
